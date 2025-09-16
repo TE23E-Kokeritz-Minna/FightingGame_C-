@@ -1,0 +1,14 @@
+C:\Users\minna.kokeritz\github-classroom\TE23E-PRRPRR01\prog2\FightingGame_C#\bin\Debug\net9.0\FightingGame_C#.exe
+C:\Users\minna.kokeritz\github-classroom\TE23E-PRRPRR01\prog2\FightingGame_C#\bin\Debug\net9.0\FightingGame_C#.deps.json
+C:\Users\minna.kokeritz\github-classroom\TE23E-PRRPRR01\prog2\FightingGame_C#\bin\Debug\net9.0\FightingGame_C#.runtimeconfig.json
+C:\Users\minna.kokeritz\github-classroom\TE23E-PRRPRR01\prog2\FightingGame_C#\bin\Debug\net9.0\FightingGame_C#.dll
+C:\Users\minna.kokeritz\github-classroom\TE23E-PRRPRR01\prog2\FightingGame_C#\bin\Debug\net9.0\FightingGame_C#.pdb
+C:\Users\minna.kokeritz\github-classroom\TE23E-PRRPRR01\prog2\FightingGame_C#\obj\Debug\net9.0\FightingGame_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minna.kokeritz\github-classroom\TE23E-PRRPRR01\prog2\FightingGame_C#\obj\Debug\net9.0\FightingGame_C#.AssemblyInfoInputs.cache
+C:\Users\minna.kokeritz\github-classroom\TE23E-PRRPRR01\prog2\FightingGame_C#\obj\Debug\net9.0\FightingGame_C#.AssemblyInfo.cs
+C:\Users\minna.kokeritz\github-classroom\TE23E-PRRPRR01\prog2\FightingGame_C#\obj\Debug\net9.0\FightingGame_C#.csproj.CoreCompileInputs.cache
+C:\Users\minna.kokeritz\github-classroom\TE23E-PRRPRR01\prog2\FightingGame_C#\obj\Debug\net9.0\FightingGame_C#.dll
+C:\Users\minna.kokeritz\github-classroom\TE23E-PRRPRR01\prog2\FightingGame_C#\obj\Debug\net9.0\refint\FightingGame_C#.dll
+C:\Users\minna.kokeritz\github-classroom\TE23E-PRRPRR01\prog2\FightingGame_C#\obj\Debug\net9.0\FightingGame_C#.pdb
+C:\Users\minna.kokeritz\github-classroom\TE23E-PRRPRR01\prog2\FightingGame_C#\obj\Debug\net9.0\FightingGame_C#.genruntimeconfig.cache
+C:\Users\minna.kokeritz\github-classroom\TE23E-PRRPRR01\prog2\FightingGame_C#\obj\Debug\net9.0\ref\FightingGame_C#.dll
