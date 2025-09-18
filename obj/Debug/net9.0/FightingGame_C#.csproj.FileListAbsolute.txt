@@ -12,3 +12,4 @@ C:\Users\minna.kokeritz\github-classroom\TE23E-PRRPRR01\prog2\FightingGame_C#\ob
 C:\Users\minna.kokeritz\github-classroom\TE23E-PRRPRR01\prog2\FightingGame_C#\obj\Debug\net9.0\FightingGame_C#.pdb
 C:\Users\minna.kokeritz\github-classroom\TE23E-PRRPRR01\prog2\FightingGame_C#\obj\Debug\net9.0\FightingGame_C#.genruntimeconfig.cache
 C:\Users\minna.kokeritz\github-classroom\TE23E-PRRPRR01\prog2\FightingGame_C#\obj\Debug\net9.0\ref\FightingGame_C#.dll
+C:\Users\minna.kokeritz\github-classroom\TE23E-PRRPRR01\prog2\FightingGame_C#\obj\Debug\net9.0\FightingGame_C#.sourcelink.json
